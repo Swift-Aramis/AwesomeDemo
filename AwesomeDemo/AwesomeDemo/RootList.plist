@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itemName</key>
+		<string>Event</string>
+		<key>itemDes</key>
+		<string>响应链理解</string>
+	</dict>
+    <dict>
+        <key>itemName</key>
+        <string>cell reuse</string>
+        <key>itemDes</key>
+        <string>cell复用理解</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>Observer</string>
+        <key>itemDes</key>
+        <string>观察者模式理解</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>WeakTimer</string>
+        <key>itemDes</key>
+        <string>打破定时器循环引用</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>Block</string>
+        <key>itemDes</key>
+        <string>Block Capture 捕获变量</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>dispatch_barrier</string>
+        <key>itemDes</key>
+        <string>GCD实现多读单写</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>dispatch_group</string>
+        <key>itemDes</key>
+        <string>dispatch_group使用场景</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>dispatch_semaphore</string>
+        <key>itemDes</key>
+        <string>dispatch_semaphore使用场景</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>Runloop</string>
+        <key>itemDes</key>
+        <string>Runloop实现常驻线程</string>
+    </dict>
+    <dict>
+        <key>itemName</key>
+        <string>copy String</string>
+        <key>itemDes</key>
+        <string>copy修饰NSString解释</string>
+    </dict>
+</array>
+</plist>
